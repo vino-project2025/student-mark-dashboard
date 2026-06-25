@@ -1,0 +1,11 @@
+Login to Streamlit Cloud
+Select this GitHub repository
+Choose:
+         student_mark_dashboard.py
+Click Deploy
+
+1. Go to your GitHub repository
+2. Click **Add file → Create new file**
+3. Name it:
+4. Paste the above content
+5. Click **Commit changes**
