@@ -1,11 +1,37 @@
-Login to Streamlit Cloud
-Select this GitHub repository
-Choose:
-         student_mark_dashboard.py
-Click Deploy
+1. Open Streamlit Cloud
+Go to:
+Streamlit Community Cloud
+Click Sign in → choose Continue with GitHub
+2. Create a new app
+After login:
+Click: New app
+You will see a form.
+Fill it:
+Repository
+Select your GitHub repository, for example:
+yourname/student-mark-dashboard
+Branch
+main
+Main file path
+Type your Python file name:
+student_mark_dashboard.py
+(Use your exact file name from GitHub)
+3. Deploy
+Click:
+Deploy
+Wait for installation.
+Streamlit will:
 
-1. Go to your GitHub repository
-2. Click **Add file → Create new file**
-3. Name it:
-4. Paste the above content
-5. Click **Commit changes**
+Read your code from GitHub
+Install packages from requirements.txt
+Start your application
+
+4. Your app URL
+
+After deployment you get a link like:
+
+https://student-mark-dashboard.streamlit.app
+
+Open it.
+
+Your dashboard will run online.
